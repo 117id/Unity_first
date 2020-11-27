@@ -1,0 +1,12 @@
+[ git bash 계정 전환 관련 참조 사이트 및 자료]
+- https://victorydntmd.tistory.com/91
+- https://velog.io/@ksh4820/github-%ED%98%91%EC%97%85%ED%95%98%EA%B8%B0-31k6c1nhi1
+- https://brunch.co.kr/@anonymdevoo/9
+- http://www.gmsgondr.net/board/view/50?s=&page=1
+- https://h0ng3.tistory.com/20
+- https://nesoy.github.io/articles/2019-12/Git-Multi-Account
+- https://dublin-java.tistory.com/62
+- https://velog.io/@hwang-eunji/github-2%EA%B0%9C-%EA%B3%84%EC%A0%95-%EC%82%AC%EC%9A%A9%ED%95%98%EA%B8%B0
+
+수정하는 동안 가장 문제점으로는 아마도 계정 전환 방법을
+찾는것과 계정 등록이 가장 큰 시간을 잡아먹었다고 생각한다.
