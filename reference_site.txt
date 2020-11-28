@@ -1,0 +1,5 @@
+[slack과 git연동참조 사이트 - 완전 기초]
+- https://uang.tistory.com/13
+- https://sepiros.tistory.com/37
+- https://blog.5anniversary.dev/37
+- http://wepla.net/?p=2353
