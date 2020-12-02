@@ -22,9 +22,13 @@
 	- 기존 branch가 아닌 새로운 브랜치에서 수정한 내용은 기존 내용에 반영되지 않는 독립된 공간임.
 - git log --branches --decorate --graph : 브랜치 구조 상세히 표현해줌
 - 깃 아이디 변경 : remote origin already exists(기존 원격 저장소가 지정되어 있으므로 해당 저장소를 삭제후 새롭게 지정해주어야 한다
+=> git remote rm origin
 => 그 방법으로 git remote add origin git@github.com이름:아이디/저장소이름.git
 - 참조 사이트 : 생활코딩
-
+[push] 
+- git push origin <masterbranch>
+[pull]
+- git pull origin <userbranch>
 =========================================================================================
 [원격 브랜치 삭제] git push origin --delete <branchName>
 - 참조 사이트 : https://nochoco-lee.tistory.com/139
